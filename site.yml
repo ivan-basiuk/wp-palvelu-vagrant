@@ -1,5 +1,5 @@
 ---
-- name: "Seravo Vagrant Box"
+- name: "Seravo Vagrant Box1"
   hosts: all
   sudo: yes
   remote_user: admin
